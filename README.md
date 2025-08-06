@@ -1,2 +1,2 @@
 # Restaurante-Pilas
-Desayuno y Cenas con acompañamientos y torilla
+Desayuno y Cenas con acompañamientos y tortilla
